@@ -230,11 +230,8 @@ body::-webkit-scrollbar-thumb {
 .track-slide::before {
     content: '';
     position: absolute;
-<<<<<<< HEAD
     bottom: -10px;
-=======
     bottom: 0;
->>>>>>> ada7666a63d6fa6fa413d6fde8d335038b36f697
     height: 60%;
     width: 100%;
    /*  isolation: isolate; */
