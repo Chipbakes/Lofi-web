@@ -479,7 +479,7 @@ footer {
     }
 
     .effect::after {
-        bottom: -55px;
+        bottom: -65px;
         height: 170%;
         width: 100%;
         position: absolute;
